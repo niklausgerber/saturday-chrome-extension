@@ -12,3 +12,13 @@ This extension was created especially for Jesper Wåhlstedt who came up with the
 
 ## Demo
 
+You can see a working demo of the Chromee extension here 👉🏻 https://www.saturday.niklausgerber.com
+
+## Credits
+This extension has been built with <a href="https://extensionizr.com" title="Extensionizr" target="_blank">Extensionizr</a> and is based on an experiment of <a href="https://github.com/Mamboleoo/DecorativeBackgrounds/" title="Decorative Backgrounds" target="_blank">Typemanus</a>
+
+### Download, Fork, Commit.
+If you think you can make this better, please Download, Fork, & Commit. I'd love to see your ideas.
+
+## Donation
+I love to create and I won't ask for repayment. If you appreciate my work and would like to support me I am sure you will earn some extra Karma points. <a href="https://www.paypal.me/NiklausGerber" target="_blank" title="Please donate">Please donate</a>.
